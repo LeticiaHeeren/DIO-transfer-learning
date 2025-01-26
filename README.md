@@ -2,7 +2,9 @@
 
 Nesse projeto utilizo Transfer Learning para classificar imagens de flores em 5 categorias: margarida, dente de leão, rosas, girassóis e tulipas. Realizei a implementação em Python no ambiente Google Colab, usando uma base de dados de flores no TensorFlow.
 
+
 ![exemplo_flores](https://github.com/user-attachments/assets/f383de93-199d-4ec7-975c-b05e3be75ce0)
+
 
 
 # Tecnologias e Ferramentas Utilizadas
@@ -34,6 +36,7 @@ As imagens foram organizadas em 5 pastas, cada uma de um tipo de flor pertencent
 # Exemplos de Resultados
 
 ![exemplo_resultado](https://github.com/user-attachments/assets/1b3d6a31-ed85-40fb-bf0f-773c4663b275)
+
 
 
 No conjunto de validação, observa-se uma estabilização tanto na acurácia quanto na perda, indicando que o modelo conseguiu aprender padrões relevantes dos dados.
